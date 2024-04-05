@@ -1,4 +1,7 @@
 // React Native Designs 
+![Ekran Görüntüsü (2)](https://github.com/har1emshake/React-Native-Designs/assets/139249324/2ad8606a-10b0-4e30-b6ee-f72511e260dc)
+
+
 ![ss10](https://github.com/har1emshake/React-Native-Designs/assets/139249324/da08d150-0139-4f59-a1f6-2e7078025ad5)
 ![ss1](https://github.com/har1emshake/React-Native-Designs/assets/139249324/ffc4b7d5-e009-486c-8bfc-80bb65ade452)
 ![ss2](https://github.com/har1emshake/React-Native-Designs/assets/139249324/2f4362a8-5bbb-42b5-8a6c-575373546e68)
