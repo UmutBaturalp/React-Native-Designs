@@ -1,79 +1,15 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-# Getting Started
-
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+// React Native Designs 
+![ss10](https://github.com/har1emshake/React-Native-Designs/assets/139249324/da08d150-0139-4f59-a1f6-2e7078025ad5)
+![ss1](https://github.com/har1emshake/React-Native-Designs/assets/139249324/ffc4b7d5-e009-486c-8bfc-80bb65ade452)
+![ss2](https://github.com/har1emshake/React-Native-Designs/assets/139249324/2f4362a8-5bbb-42b5-8a6c-575373546e68)
+![ss3](https://github.com/har1emshake/React-Native-Designs/assets/139249324/222834df-b2b0-4c50-a6ef-51a184b919b9)
+![ss4](https://github.com/har1emshake/React-Native-Designs/assets/139249324/f24765f6-2a7d-4098-b49d-d3083ec4188a)
+![ss5](https://github.com/har1emshake/React-Native-Designs/assets/139249324/70929ef7-07fc-4aff-b6fb-c65f53fc429b)
+![ss6](https://github.com/har1emshake/React-Native-Designs/assets/139249324/b2fbb88f-c454-4676-a376-3a27b913b501)
+![ss7](https://github.com/har1emshake/React-Native-Designs/assets/139249324/f16df7d7-f041-4ac7-8500-747990529a01)
+![ss8](https://github.com/har1emshake/React-Native-Designs/assets/139249324/a9119a70-a359-4dfd-a934-6c8cde2c964c)
+![ss9](https://github.com/har1emshake/React-Native-Designs/assets/139249324/50abf521-0867-428a-b476-dd2211ea6a79)
+![ss11](https://github.com/har1emshake/React-Native-Designs/assets/139249324/08183fea-69c7-4133-a346-42ad7d0016c6)
+![ss12](https://github.com/har1emshake/React-Native-Designs/assets/139249324/2b06727c-39d2-4638-91e3-d98464d1d684)
+![ss13](https://github.com/har1emshake/React-Native-Designs/assets/139249324/bf617399-a152-4b38-a27c-9d1a62693b22)
+![ss14](https://github.com/har1emshake/React-Native-Designs/assets/139249324/6e9ad52a-a348-4f32-a838-967cd2906f68)
